@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Yadav</h1>
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/vikasyadav2412/vikasyadav2412/main/vikas.png" alt="Vikas Yadav Banner">
+ <img src="https://raw.githubusercontent.com/vikasyadav2412/vikasyadav2412/main/vikass.png" alt="Vikas Yadav Banner">
 </div>
 
 <h3 align="center">A passionate Full Stack Developer from India. I enjoy building things that live on the internet and solving problems with code.</h3>
