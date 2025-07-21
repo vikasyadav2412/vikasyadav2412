@@ -25,7 +25,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikasyadav2412](https://github.com/vikasyadav2412)
-- 💬 Ask me about **Data Structures & Algorithms, MERN Stack**
+- 💬 Ask me about **Data Structures & Algorithms, MERN Stack ,Reactjs**
 - 📫 How to reach me **msvarunvikas24122004@gmail.com**
 
 ---
